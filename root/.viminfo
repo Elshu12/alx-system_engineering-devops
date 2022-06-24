@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656009858,,"wq"
+|2,0,1656097247,,"wq"
 :q
-|2,0,1656009698,,"q"
+|2,0,1656051337,,"q"
 :w
-|2,0,1654943049,,"w"
+|2,0,1656051335,,"w"
 :W
 |2,0,1652810353,,"W"
 
@@ -34,230 +34,328 @@
 |3,1,36,0,1,0,1654943017,"C"
 
 # File marks:
-'0  2  7  ~/alx-system_engineering_devops/0-iam_betty
-|4,48,2,7,1656009858,"~/alx-system_engineering_devops/0-iam_betty"
-'1  1  45  ~/alx-system_engineering_devops/README.md
-|4,49,1,45,1656009725,"~/alx-system_engineering_devops/README.md"
-'2  1  6  ~/0x02_emacs/quitting
-|4,50,1,6,1654943054,"~/0x02_emacs/quitting"
-'3  1  0  ~/0x03_vi/end_of_the_line
-|4,51,1,0,1652892864,"~/0x03_vi/end_of_the_line"
-'4  1  0  ~/0x03_vi/beginning_of_the_line
-|4,52,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
-'5  1  0  ~/0x03_vi/beggining_of_the_line
-|4,53,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
-'6  1  1  ~/0x03_vi/exiting
-|4,54,1,1,1652892649,"~/0x03_vi/exiting"
-'7  1  0  ~/0x03_vi/undoing
-|4,55,1,0,1652892572,"~/0x03_vi/undoing"
-'8  1  0  ~/0x03_vi/pasting
-|4,56,1,0,1652892442,"~/0x03_vi/pasting"
-'9  1  1  ~/0x03_vi/cutting
-|4,57,1,1,1652892389,"~/0x03_vi/cutting"
+'0  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,48,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
+'1  1  46  ~/0x01-shell_permission/README.md
+|4,49,1,46,1656097129,"~/0x01-shell_permission/README.md"
+'2  1  0  ~/0x02_vi/end_of_the_line
+|4,50,1,0,1656051337,"~/0x02_vi/end_of_the_line"
+'3  1  0  ~/0x02_vi/beginning_of_the_line
+|4,51,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+'4  1  0  ~/0x02_vi/end
+|4,52,1,0,1656051251,"~/0x02_vi/end"
+'5  1  0  ~/0x02_vi/beginning
+|4,53,1,0,1656051225,"~/0x02_vi/beginning"
+'6  1  1  ~/0x02_vi/exiting
+|4,54,1,1,1656051132,"~/0x02_vi/exiting"
+'7  1  0  ~/0x02_vi/undoing
+|4,55,1,0,1656051076,"~/0x02_vi/undoing"
+'8  1  1  ~/0x02_vi/cutting
+|4,56,1,1,1656050998,"~/0x02_vi/cutting"
+'9  1  0  ~/0x02_vi/inserting
+|4,57,1,0,1656050959,"~/0x02_vi/inserting"
 
 # Jumplist (newest first):
--'  2  7  ~/alx-system_engineering_devops/0-iam_betty
-|4,39,2,7,1656009858,"~/alx-system_engineering_devops/0-iam_betty"
--'  1  0  ~/alx-system_engineering_devops/0-iam_betty
-|4,39,1,0,1656009785,"~/alx-system_engineering_devops/0-iam_betty"
--'  1  45  ~/alx-system_engineering_devops/README.md
-|4,39,1,45,1656009725,"~/alx-system_engineering_devops/README.md"
--'  1  45  ~/alx-system_engineering_devops/README.md
-|4,39,1,45,1656009725,"~/alx-system_engineering_devops/README.md"
--'  1  6  ~/0x02_emacs/quitting
-|4,39,1,6,1654943054,"~/0x02_emacs/quitting"
--'  1  6  ~/0x02_emacs/quitting
-|4,39,1,6,1654943054,"~/0x02_emacs/quitting"
--'  1  6  ~/0x02_emacs/quitting
-|4,39,1,6,1654943054,"~/0x02_emacs/quitting"
--'  1  6  ~/0x02_emacs/quitting
-|4,39,1,6,1654943054,"~/0x02_emacs/quitting"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1652892864,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1652892808,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  0  ~/0x03_vi/beggining_of_the_line
-|4,39,1,0,1652892725,"~/0x03_vi/beggining_of_the_line"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1652892649,"~/0x03_vi/exiting"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
+-'  1  0  ~/0x01-shell_permission/0-iam_betty
+|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/end
+|4,39,1,0,1656051251,"~/0x02_vi/end"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  0  ~/0x02_vi/beginning
+|4,39,1,0,1656051225,"~/0x02_vi/beginning"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1656051132,"~/0x02_vi/exiting"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x01-shell_permission/0-iam_betty
+	*	1656097244	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/0x01-shell_permission/README.md
+	*	1656097126	0
+	"	1	46
+	^	1	47
+	.	1	46
+	+	1	46
+
+> ~/0x02_vi/end_of_the_line
+	*	1656051336	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/beginning_of_the_line
+	*	1656051313	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/end
+	*	1656051249	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/beginning
+	*	1656051223	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/exiting
+	*	1656051130	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/0x02_vi/undoing
+	*	1656051074	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/cutting
+	*	1656050997	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/0x02_vi/inserting
+	*	1656050958	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/inserting
+	*	1656050741	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/cutting
+	*	1656050647	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-system_engineering_devops/0x01-shell_permission/0-iam_betty
+	*	1656038701	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/alx-system_engineering_devops/0x01-shell_permission/README.md
+	*	1656038568	0
+	"	1	46
+	^	1	47
+	.	1	46
+	+	1	46
 
 > ~/alx-system_engineering_devops/0-iam_betty
 	*	1656009855	0
