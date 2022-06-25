@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656115505,,"wq"
+|2,0,1656117625,,"wq"
 :q
 |2,0,1656051337,,"q"
 :w
@@ -35,33 +35,39 @@
 
 # File marks:
 '0  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,48,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
-'1  1  45  ~/0x01-shell_permission/README.md
-|4,49,1,45,1656115441,"~/0x01-shell_permission/README.md"
-'2  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
-|4,50,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
-'3  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,51,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
-'4  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,52,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
-'5  1  46  ~/0x01-shell_permission/README.md
-|4,53,1,46,1656097129,"~/0x01-shell_permission/README.md"
-'6  1  0  ~/0x02_vi/end_of_the_line
-|4,54,1,0,1656051337,"~/0x02_vi/end_of_the_line"
-'7  1  0  ~/0x02_vi/beginning_of_the_line
-|4,55,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
-'8  1  0  ~/0x02_vi/end
-|4,56,1,0,1656051251,"~/0x02_vi/end"
-'9  1  0  ~/0x02_vi/beginning
-|4,57,1,0,1656051225,"~/0x02_vi/beginning"
+|4,48,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
+'1  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,49,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
+'2  1  45  ~/0x01-shell_permission/README.md
+|4,50,1,45,1656115441,"~/0x01-shell_permission/README.md"
+'3  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,51,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+'4  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,52,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+'5  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,53,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
+'6  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,54,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
+'7  1  46  ~/0x01-shell_permission/README.md
+|4,55,1,46,1656097129,"~/0x01-shell_permission/README.md"
+'8  1  0  ~/0x02_vi/end_of_the_line
+|4,56,1,0,1656051337,"~/0x02_vi/end_of_the_line"
+'9  1  0  ~/0x02_vi/beginning_of_the_line
+|4,57,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
 
 # Jumplist (newest first):
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
 -'  2  7  ~/0x01-shell_permission/0-iam_betty
 |4,39,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
 -'  1  45  ~/0x01-shell_permission/README.md
 |4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
 -'  1  45  ~/0x01-shell_permission/README.md
 |4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
 -'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
 |4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
@@ -70,6 +76,22 @@
 |4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
 |4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
 |4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
@@ -94,6 +116,22 @@
 |4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
 -'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
 |4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+-'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
 -'  2  7  ~/0x01-shell_permission/0-iam_betty
 |4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
 -'  2  7  ~/0x01-shell_permission/0-iam_betty
@@ -128,6 +166,8 @@
 |4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
 -'  1  0  ~/0x01-shell_permission/0-iam_betty
 |4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
+-'  1  0  ~/0x01-shell_permission/0-iam_betty
+|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
 -'  1  46  ~/0x01-shell_permission/README.md
 |4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
 -'  1  46  ~/0x01-shell_permission/README.md
@@ -160,78 +200,38 @@
 |4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
 -'  1  46  ~/0x01-shell_permission/README.md
 |4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
+-'  1  46  ~/0x01-shell_permission/README.md
+|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
 -'  1  0  ~/0x02_vi/end_of_the_line
 |4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
 -'  1  0  ~/0x02_vi/end_of_the_line
@@ -260,7 +260,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/0x01-shell_permission/0-iam_betty
-	*	1656115503	0
+	*	1656117622	0
 	"	2	7
 	^	2	8
 	.	2	7
