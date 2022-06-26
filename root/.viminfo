@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656117625,,"wq"
+|2,0,1656217030,,"wq"
 :q
 |2,0,1656051337,,"q"
 :w
@@ -34,30 +34,50 @@
 |3,1,36,0,1,0,1654943017,"C"
 
 # File marks:
-'0  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,48,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
-'1  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,49,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
-'2  1  45  ~/0x01-shell_permission/README.md
-|4,50,1,45,1656115441,"~/0x01-shell_permission/README.md"
-'3  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
-|4,51,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
-'4  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,52,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
-'5  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,53,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
-'6  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,54,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
-'7  1  46  ~/0x01-shell_permission/README.md
-|4,55,1,46,1656097129,"~/0x01-shell_permission/README.md"
-'8  1  0  ~/0x02_vi/end_of_the_line
-|4,56,1,0,1656051337,"~/0x02_vi/end_of_the_line"
-'9  1  0  ~/0x02_vi/beginning_of_the_line
-|4,57,1,0,1656051315,"~/0x02_vi/beginning_of_the_line"
+'0  2  7  ~/0x01-shell_permissions/0-iam_betty
+|4,48,2,7,1656217030,"~/0x01-shell_permissions/0-iam_betty"
+'1  1  46  ~/0x01-shell_permissions/README.md
+|4,49,1,46,1656216980,"~/0x01-shell_permissions/README.md"
+'2  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,50,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
+'3  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,51,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
+'4  1  45  ~/0x01-shell_permission/README.md
+|4,52,1,45,1656115441,"~/0x01-shell_permission/README.md"
+'5  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,53,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+'6  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
+|4,54,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
+'7  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,55,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
+'8  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,56,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
+'9  1  46  ~/0x01-shell_permission/README.md
+|4,57,1,46,1656097129,"~/0x01-shell_permission/README.md"
 
 # Jumplist (newest first):
+-'  2  7  ~/0x01-shell_permissions/0-iam_betty
+|4,39,2,7,1656217030,"~/0x01-shell_permissions/0-iam_betty"
+-'  1  0  ~/0x01-shell_permissions/0-iam_betty
+|4,39,1,0,1656217000,"~/0x01-shell_permissions/0-iam_betty"
+-'  1  46  ~/0x01-shell_permissions/README.md
+|4,39,1,46,1656216980,"~/0x01-shell_permissions/README.md"
+-'  1  46  ~/0x01-shell_permissions/README.md
+|4,39,1,46,1656216980,"~/0x01-shell_permissions/README.md"
 -'  2  7  ~/0x01-shell_permission/0-iam_betty
 |4,39,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656117625,"~/0x01-shell_permission/0-iam_betty"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
 -'  2  7  ~/0x01-shell_permission/0-iam_betty
 |4,39,2,7,1656115505,"~/0x01-shell_permission/0-iam_betty"
 -'  1  45  ~/0x01-shell_permission/README.md
@@ -68,6 +88,78 @@
 |4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
 -'  1  45  ~/0x01-shell_permission/README.md
 |4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  1  45  ~/0x01-shell_permission/README.md
+|4,39,1,45,1656115441,"~/0x01-shell_permission/README.md"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
 |4,39,2,2,1656115023,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  2  2  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
@@ -100,6 +192,54 @@
 |4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
 |4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
+-'  1  0  ~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory
+|4,39,1,0,1656114913,"~/peer_learning_alx/0x00-shell_basics/0-current_working_direcory"
 -'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
 |4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
 -'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
@@ -116,148 +256,22 @@
 |4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
 -'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
 |4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  1  47  ~/peer_learning_alx/0x00-shell_basics/README.md
-|4,39,1,47,1656114831,"~/peer_learning_alx/0x00-shell_basics/README.md"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,39,2,7,1656097247,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  0  ~/0x01-shell_permission/0-iam_betty
-|4,39,1,0,1656097186,"~/0x01-shell_permission/0-iam_betty"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  46  ~/0x01-shell_permission/README.md
-|4,39,1,46,1656097129,"~/0x01-shell_permission/README.md"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1656051337,"~/0x02_vi/end_of_the_line"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x01-shell_permissions/0-iam_betty
+	*	1656217028	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/0x01-shell_permissions/README.md
+	*	1656216977	0
+	"	1	46
+	^	1	47
+	.	1	46
+	+	1	46
 
 > ~/0x01-shell_permission/0-iam_betty
 	*	1656117622	0
